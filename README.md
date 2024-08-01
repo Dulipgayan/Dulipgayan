@@ -1,11 +1,8 @@
 <img align="center" alt="Coding" width="100%" height="350" src="https://camo.githubusercontent.com/c2c315240a33d03dc80d0b793144cf88b2bf535fbdd6a1720b7aed2b63035adb/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363035362c77696474682d313230302c6865696768742d3930302c696d6773697a652d3633383035332c726573697a656d6f64652d382f32303231303730365f646576656c6f7065722d65636f6e6f6d795f30312e6a7067">
 <h1 align="center">Hi 👋, I'm Dulip Gayan</h1>
-<marquee><h3 align="center">A passionate fullstack developer from Sri Lanka</h3></marquee>
+<h3 align="center" ><marquee>A passionate fullstack developer from Sri Lanka</marquee></h3><br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulipgayan&label=Profile%20views&color=0e75b6&style=flat" alt="dulipgayan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulipgayan" alt="dulipgayan" /></a> </p>
 
 - 🌱 I’m currently learning **React | Angular | Node.js | Vue.js**
 
